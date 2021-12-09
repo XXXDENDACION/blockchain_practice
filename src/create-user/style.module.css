@@ -1,0 +1,23 @@
+.user__form {
+    height: 100vh;
+}
+
+.user__form__wrapper {
+    height: 50vh;
+    width: 50vw;
+    padding-top: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form__row {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.input__row {
+    margin: 20px !important;
+}
